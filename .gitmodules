@@ -1,0 +1,9 @@
+[submodule "heat"]
+	path = heat
+	url = tcs@10.138.97.230:/home/tcs/Videos/git_repo/git_repo_files/heat
+[submodule "python-vnfsvcclient"]
+	path = python-vnfsvcclient
+	url = tcs@10.138.97.230:/home/tcs/Videos/git_repo/git_repo_files/python-vnfsvcclient/
+[submodule "vnfsvc"]
+	path = vnfsvc
+	url = tcs@10.138.97.230:/home/tcs/Videos/git_repo/git_repo_files/vnfsvc/
